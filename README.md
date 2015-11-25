@@ -9,5 +9,5 @@
 ```
 `ng-model`绑定选中之后的对象，`select-options`绑定要显示的select数组。
 ## Have fun !☣
-![select-input](./select-input.png);
+![select-input](./select-input.gif)
 
