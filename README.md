@@ -7,7 +7,7 @@
 ```html
  <select-input ng-model="currentInput" select-options="options"></select-input>
 ```
-`ng-model`判定选中之后的对象，`select-options`判断要显示的select数组。
+`ng-model`绑定选中之后的对象，`select-options`绑定要显示的select数组。
 ## Have fun !☣
 ![select-input](./select-input.png);
 
