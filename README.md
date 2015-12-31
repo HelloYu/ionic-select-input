@@ -1,6 +1,4 @@
-# ionic-select-input
-:fish:a directive of ionic , compose the input and select .
-# 使用说明
+## 使用说明
 一个很简单的指令，封装ionic的`ion-radio`,可以进行输入，也可以选择下拉。
 暂时只接受字符串数组 ['Ionic','AngularJs','Node.js'];
 #### Demo
